@@ -556,4 +556,3 @@ Community:
 
 ---
 
-<sub>Steam Deck illustration created by [ApeWTF](https://ape.wtf/). All screenshots from opened internet resources. All rights reserved.</sub>
